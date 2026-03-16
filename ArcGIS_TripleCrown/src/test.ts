@@ -1,0 +1,1 @@
+export default "This is a test file for the ArcGIS Triple Crown project";
